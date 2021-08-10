@@ -1,4 +1,4 @@
-package com.example.springinitializerhelloworld;
+package com.example.springinitializerhelloworld.model;
 
 public class Greeting {
 
